@@ -2,7 +2,7 @@
 define(['Player','Enemy'],function(Player,Enemy) {
 	
 	
-	console.log('嘿嘿嘿');
+	console.log('第三次修改');
 
 	//导演
 	function GameDirector(level) {
